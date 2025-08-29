@@ -1,1 +1,1 @@
-Hello, This is where I'll be putting all my data science class addignments. Hi Mr. Arredondo!
+Repository of assignments and projects for the Data Science class I took in senior year.
